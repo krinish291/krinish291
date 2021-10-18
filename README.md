@@ -2,7 +2,7 @@
 <h3 align="center">A passionate mobile-app developer</h3>
 <br/><br/>
 
-- 🌱 I’m currently learning **MERN Stack, DevOps, ML**
+- 🌱 I’m currently learning **React-Native with typescript, Nodejs**
 
 - 👨‍💻 My Portfolio [https://krinish291.github.io/](https://krinish291.github.io/)
 
