@@ -1,58 +1,87 @@
-<!-- Hi there, welcome to my GitHub! 👋 -->
+# Hi, I'm Krinish Radadiya 👋
 
-# Hi, I'm Krinish! 🚀
+🚀 **AI Engineer | Engineering Manager | Builder**
 
-Enthusiastic about transforming ideas into effective mobile solutions that reach thousands of active users every day. As an **Engineering Manager at Atliq Technologies**, I lead a high-energy team of 7 skilled developers, blending technical expertise with strategic management to deliver innovative applications across diverse sectors.
+I specialize in building **AI-powered systems and intelligent applications** that solve real-world problems at scale. My work focuses on **LLM applications, RAG architectures, AI agents, and scalable software systems.**
+
+Currently working as **Engineering Manager at AtliQ Technologies**, where I lead engineering teams and build AI-driven products used by thousands of users.
+
+---
+
+## 🧠 AI Engineering Focus
+
+I design and build production-ready AI systems including:
+
+- Retrieval Augmented Generation (RAG) systems
+- AI agents for automation
+- Document intelligence platforms
+- Semantic search using vector databases
+- LLM powered assistants
+- Real-time AI pipelines
+
+### Technologies I Work With
+
+- **LLMs:** OpenAI GPT Models  
+- **AI Frameworks:** LangChain, Agent frameworks  
+- **Vector Databases:** Pinecone, FAISS, MongoDB Atlas Vector  
+- **Languages:** Python, TypeScript  
+- **Cloud:** AWS  
+- **Data:** Large dataset processing & embeddings  
 
 ---
 
 ## 📈 Career Journey
 
-- **Started in December 2020** as an intern—grew quickly from Software Engineer to Engineering Manager within 2 years through hard work and constant learning.
-- Proven ability to adapt, learn, and thrive in fast-changing environments.
+- Started my career in **December 2020 as a Software Engineering Intern**
+- Promoted rapidly to **Engineering Manager within 2 years**
+- Currently leading **a team of 7+ engineers**
+- Transitioned into building **AI-first products and intelligent systems**
 
 ---
 
 ## 🏆 Key Achievements
 
-- **Technical Leadership:** Released 15+ mobile apps in healthcare, social media, productivity, and carpooling, impacting thousands of users.
-- **Cross-Platform Skills:** Expert in React Native CLI (TypeScript, Redux, Redux Saga), integrating payment gateways, video call SDKs, and real-time chat APIs.
-- **Team Leadership:** Manage project delivery, conduct technical interviews, and mentor developers for peak performance.
-- **Innovation Orientation:** Hands-on with AI/ML solutions—RAG systems, vector databases, and statistical ML models processing 10M+ datasets.
+- Built **RAG-based AI systems** processing millions of documents and datasets
+- Developed **AI agents capable of analyzing documents and extracting insights**
+- Released **15+ production mobile applications**
+- Built data pipelines processing **10M+ records**
+- Conducted **technical hiring and engineering mentorship**
 
 ---
 
-## 💡 What Drives Me
+## 📱 Previous Expertise – Mobile Engineering
 
-Known for writing quality code, communicating clearly, contributing to open source, and learning fast. Passionate about connecting mobile development with machine learning to build smarter, AI-powered apps.
+Before focusing deeply on AI systems, I specialized in **cross-platform mobile development**.
 
----
+Technologies:
 
-## 🌐 Let's Connect!
+- React Native CLI
+- TypeScript
+- Redux & Redux Saga
+- Real-time chat systems
+- Payment gateway integrations
+- Video call SDK integrations
 
-<!-- Replace these links with your actual handles -->
-- [LinkedIn](linkedin.com/in/krinish-radadiya-035425190/)
-- [Twitter](https://twitter.com/R291Krinish)
-- [Portfolio/Website](https://www.krinish.in)
-
----
-
-## 📱 Featured Projects
-
-<!-- Add your favorite projects below -->
-- **HealthConnect**: Healthcare app for patient engagement and monitoring.
-- **CarPooler**: Real-time carpooling platform with integrated payments and chat.
-- **ProductivityPro**: Task management and collaboration app for teams.
+This background helps me build **AI features directly inside real-world applications.**
 
 ---
 
-## ⚡ Fun Facts
+## 💡 What I Enjoy Building
 
-- Enjoy exploring new tech trends and contributing to open source.
-- Always up for tackling intricate challenges with innovative solutions.
-- Eager to connect with fellow technology enthusiasts—let’s collaborate!
+- AI powered SaaS products
+- Voice AI systems
+- AI automation workflows
+- Intelligent document processing
+- AI agents
 
 ---
 
-_Thanks for visiting!_ 👋  
-_Let's build the future together!_
+## 🌐 Connect With Me
+
+- LinkedIn: https://linkedin.com/in/krinish-radadiya-035425190
+- Twitter: https://twitter.com/R291Krinish
+- Portfolio: https://www.krinish.in
+
+---
+
+⭐ Always exploring new ideas in **AI, automation, and intelligent software systems.**
